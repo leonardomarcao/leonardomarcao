@@ -19,4 +19,4 @@ In 2013 I graduated in Computer Technician, and in 2014 I started the Computer S
 
 In 2015 I entered the Institute of Bioscience, Letters, and Exact Sciences - Unesp, located in São José do Rio Preto, and at the end of the same year, I started my career as a developer at the Junior Computer Science Company (ECCjr), where I stayed a year as a developer, and shortly after, two years as a Project Director. After three years of much learning and experience, carrying out projects together with ECCjr and interning as an Infrastructure Analyst at the 3D Creation company, I leave UNESP and return to my hometown (São Joaquim da Barra).
 
-Currently, I have a bachelor's degree in Computer Science at Universidade Paulista, I am Back-end Developer at Risknow and owner of LMF Solutions.
+Currently, I have a bachelor's degree in Computer Science at Universidade Paulista, I am Full-Stack Developer at TCL Soluções and owner of LMF Solutions.
