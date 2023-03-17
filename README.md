@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <a href="https://www.linkedin.com/in/leonardomarcao/">
  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -20,3 +20,6 @@ In 2013 I graduated in Computer Technician, and in 2014 I started the Computer S
 In 2015 I entered the Institute of Bioscience, Letters, and Exact Sciences - Unesp, located in São José do Rio Preto, and at the end of the same year, I started my career as a developer at the Junior Computer Science Company (ECCjr), where I stayed a year as a developer, and shortly after, two years as a Project Director. After three years of much learning and experience, carrying out projects together with ECCjr and interning as an Infrastructure Analyst at the 3D Creation company, I leave UNESP and return to my hometown (São Joaquim da Barra).
 
 Currently, I have a bachelor's degree in Computer Science at Universidade Paulista, I am Python Backend Developer on Omie and owner of LMF Solutions.
+
+#### 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://programming-joke-card.jayvishaalj.vercel.app/api?theme=dracula)
