@@ -59,4 +59,3 @@ I'm open to collaborating on open source projects, feel free to connect with me:
 - [LinkedIn](https://www.linkedin.com/in/leonardomarcao/)
 - [YouTube](https://www.youtube.com/@leonardomarcaof)
 - [Medium](https://medium.com/@leonardo.marcao)
-- [Personal Website](https://leonardomarcao.com)
