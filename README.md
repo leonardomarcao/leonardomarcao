@@ -46,11 +46,13 @@ Born in São Joaquim da Barra, a charming city in the interior of São Paulo, I 
 - [Mr. Referee](https://github.com/leonardomarcao/mr-referee-app) - An Electron and Node project (2022)
 - [Monopoly Game](https://github.com/leonardomarcao/monopoly-game) - A Python project (2022)
 - [Credit Card](https://github.com/leonardomarcao/credit_card) - A Python project (2023)
+- [Shift Spectra](https://github.com/leonardomarcao/shift-spectra) - A Python project (2023)
 
 ## 📝 Talks
 
-- [Palestra: O Mercado de TI no Brasil e Aceleração Global - E. E. Manoel Martins (2022)](https://www.youtube.com/watch?v=suFPWMTZchc)
+- [Palestra: Internet das Coisas (IoT): Indo além da conectividade (2016)]([https://www.youtube.com/watch?v=SrmDK5ExGTw](https://youtu.be/jg3dMoGVfM4?si=DNqg8R7JjnjqSmj9))
 - [Palestra: O Mercado Python no Brasil - 20ª Semana de informática - Etec Pedro Badran (2021)](https://www.youtube.com/watch?v=SrmDK5ExGTw)
+- [Palestra: O Mercado de TI no Brasil e Aceleração Global - E. E. Manoel Martins (2022)](https://www.youtube.com/watch?v=suFPWMTZchc)
 
 ## 👨‍💻 Let's Connect
 
