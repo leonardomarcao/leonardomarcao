@@ -50,7 +50,7 @@ Born in São Joaquim da Barra, a charming city in the interior of São Paulo, I 
 
 ## 📝 Talks
 
-- [Palestra: Internet das Coisas (IoT): Indo além da conectividade (2016)]([https://www.youtube.com/watch?v=SrmDK5ExGTw](https://youtu.be/jg3dMoGVfM4?si=DNqg8R7JjnjqSmj9))
+- [Palestra: Internet das Coisas (IoT): Indo além da conectividade (2016)](https://youtu.be/jg3dMoGVfM4?si=DNqg8R7JjnjqSmj9)
 - [Palestra: O Mercado Python no Brasil - 20ª Semana de informática - Etec Pedro Badran (2021)](https://www.youtube.com/watch?v=SrmDK5ExGTw)
 - [Palestra: O Mercado de TI no Brasil e Aceleração Global - E. E. Manoel Martins (2022)](https://www.youtube.com/watch?v=suFPWMTZchc)
 
