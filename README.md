@@ -20,7 +20,8 @@ Born in São Joaquim da Barra, a charming city in the interior of São Paulo, I 
 - Python Backend Developer, Risknow.ai, São Paulo, Brazil (August 2020 - September 2021)
 - Full-stack Developer, TCL Solutions, Ribeirão Preto, Brazil (September 2021 - April 2022)
 - Volunteer Full Stack Developer, Linguistics Justice League, Mercer Island, Washington, USA (June 2022 - September 2022)
-- Python Backend Developer, Omie, São Paulo, Brazil (April 2022 - Present)
+- Python Backend Developer, Omie, São Paulo, Brazil (April 2022 - December 2023)
+- Tech Lead, Motor Hero, São Paulo, Brazil (January 2024 - Present)
 
 ## 🛠 Skills
 
