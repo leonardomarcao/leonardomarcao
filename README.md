@@ -4,7 +4,7 @@
  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-![Leonardo's GitHub Stats](https://github-readme-stats-three-puce-ricardo.vercel.app/api?username=leonardomarcao&theme=default&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardomarcao&langs_count=8&hide=java,html,vue&layout=compact)
+![Leonardo's GitHub Stats](https://github-readme-stats-three-puce-ricardo.vercel.app/api?username=leonardomarcao&theme=default&count_private=true)
 
 ## 🚀 About Me
 
